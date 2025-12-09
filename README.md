@@ -7,7 +7,7 @@
 
 ## Para descargar el proyecto en tu equipo, ejecuta:
 
-- git clone https://github.com/Johndark2001/ORGANIZADOR-PWA.git
+- git clone https://github.com/Johndark2001/PROYECTO-DE-SOFTWARE-FINAL-ORGANIZADOR-PWA-.git
 
 - cd ORGANIZADOR-PWA
 ___
