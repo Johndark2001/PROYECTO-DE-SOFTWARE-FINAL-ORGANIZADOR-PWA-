@@ -26,6 +26,7 @@ ___
 ### En Windows:
 
 - python -m venv venv
+  o
 - venv\Scripts\activate
 
 
@@ -33,6 +34,7 @@ ___
 ### En macOS/Linux:
 
 - python3 -m venv venv
+o
 - source venv/bin/activate
 ___
 ___
@@ -41,16 +43,19 @@ ___
 
 
 - pip install -r requirements.txt
+- python -m pip install --upgrade pip
+
 
 
 ## 4. Ejecuta el servidor backend:
 
-- python app.py
+- python .\run.py
+
 ___
 ___
 
 ⚠️ El servidor Flask iniciará normalmente en http://127.0.0.1:5000
-(puedes modificar el puerto en app.py si lo deseas).
+
 ___
 ___
 
@@ -63,7 +68,7 @@ ___
 
 ### 2. Instala las dependencias del proyecto:
 
-- npm install
+- npm install  (Instalar dependencias, sólo la primera vez o cuando cambien)
 
 
 ### 3. Ejecuta el entorno de desarrollo:
